@@ -45,48 +45,24 @@
                     <div class="col-lg-12">
                         <div class="navBar01">
                             <div class="logo">
-                                <a href="index.html"><img src="assets/images/logo.png" alt="Dgita"></a>
+                                <a href="{{route('home')}}"><img src="assets/images/logo.png" alt="Dgita"></a>
                             </div>
                             <a href="javascript:void(0)" class="menu_btn"><i class="twi-bars2"></i></a>
                             <nav class="mainMenu">
                                 <ul>
-                                    <li class="menu-item-has-children">
-                                        <a href="javascript:void(0);">Home</a>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item-has-children">
-                                                <a href="javascript:void(0);">Banner Version</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="index.html">Home One</a></li>
-                                                    <li><a href="index2.html">Home Two</a></li>
-                                                    <li><a href="index3.html">Home Three</a></li>
-                                                </ul>
-                                            </li>
-                                            <li class="menu-item-has-children">
-                                                <a href="javascript:void(0);">Slider Version</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="index4.html">Home One</a></li>
-                                                    <li><a href="index5.html">Home Two</a></li>
-                                                    <li><a href="index6.html">Home Three</a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
+                                    <li class="">
+                                        <a href="{{route('home')}}">Home</a>
                                     </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="javascript:void(0);">Services</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="service.html">Service Page</a></li>
-                                            <li><a href="single-service.html">Service Details</a></li>
-                                        </ul>
+                                    <li class="">
+                                        <a href="{{route('services')}}">Services</a>
                                     </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="javascript:void(0);">Portfolio</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="folio1.html">Portfolio 01</a></li>
-                                            <li><a href="folio2.html">Portfolio 02</a></li>
-                                            <li><a href="single-folio.html">Portfolio Details</a></li>
-                                        </ul>
+                                    <li class="">
+                                        <a href="{{route('portfolio')}}">Portfolio</a>
                                     </li>
-                                    <li class="menu-item-has-children">
+                                    <li class="">
+                                        <a href="{{route('contact')}}">Contact</a>
+                                    </li>
+                                    {{-- <li class="menu-item-has-children">
                                         <a href="javascript:void(0);">blogs</a>
                                         <ul class="sub-menu">
                                             <li class="menu-item-has-children">
@@ -107,8 +83,8 @@
                                             </li>
                                             <li><a href="single-blog.html">Blog Details</a></li>
                                         </ul>
-                                    </li>
-                                    <li class="menu-item-has-children">
+                                    </li> --}}
+                                    {{-- <li class="menu-item-has-children">
                                         <a href="javascript:void(0);">pages</a>
                                         <ul class="sub-menu">
                                             <li><a href="{{route('about')}}">About 01</a></li>
@@ -132,13 +108,14 @@
                                             <li><a href="gallery.html">Gallery</a></li>
                                             <li><a href="company.html">Company History</a></li>
                                         </ul>
-                                    </li>
+                                    </li> --}}
                                 </ul>
                             </nav>
                             <div class="accessNav">
                                 <a class="phoneBtn" href="tel:+01682648101"><i class="dgita-telephone-call"></i>+919660122070</a>
                                 {{-- <a class="cartBtn" href="javascript:void(0);"><i class="dgita-shopping-bag"></i><span>0</span></a> --}}
-                                <a class="dgBtn_two" href="{{route('contact')}}"><span><i class="dgita-enter"></i>Get Quote</span></a>
+                                {{-- <a class="dgBtn_two" href="{{route('contact')}}"><span><i class="dgita-enter"></i>Get Quote</span></a> --}}
+                                <a  class ="dgBtn_two" href="https://wa.me/919887902973" target="_blank"><span><i class="dgita-enter"></i>WhatsApp</span></a>
                             </div>
                         </div>
                     </div>
@@ -162,13 +139,13 @@
                             <div class="aboutWidget">
                                 <a href="index.html"><img src="assets/images/logo.png" alt=""/></a>
                                 <p>Sector 1, Malviya Nagar, Jaipur, 302017</p>
-                                <h4>Newsletter</h4>
+                                {{-- <h4>Newsletter</h4>
                                 <form action="#" method="post">
                                     <div class="mc4wp-form-fields">
                                         <input type="email" disabled name="EMAIL" placeholder="Email Address">
                                         <button type="submit" disabled><i class="dgita-arrow"></i></button>
                                     </div>
-                                </form>
+                                </form> --}}
                             </div>
                         </div>
                     </div>
