@@ -982,7 +982,7 @@
     }
     .heroBanner01{
         height: auto;
-        padding: 170px 0 120px;
+        padding: 170px 0 0;
     }
     .bMiddle {
         position: relative;
