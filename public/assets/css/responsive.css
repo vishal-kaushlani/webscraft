@@ -1061,7 +1061,7 @@
         display: block;
         position: fixed;
         bottom: 20px;
-        right: 20px;
+        left: 20px;
         z-index: 1000; /* Ensures the button stays on top */
     }
 
