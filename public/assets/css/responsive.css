@@ -1056,3 +1056,19 @@
         height: 60px;
     }
 }
+@media only screen and (max-width: 768px) {
+    .whatsapp-floating-button {
+        display: block;
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        z-index: 1000; /* Ensures the button stays on top */
+    }
+
+    .whatsapp-floating-button img {
+        width: 50px; /* Adjust size as needed */
+        height: 50px;
+        border-radius: 50%; /* Makes the button round */
+        box-shadow: 0px 2px -1px rgba(0, 0, 0, 0.3); /* Adds a subtle shadow */
+    }
+}

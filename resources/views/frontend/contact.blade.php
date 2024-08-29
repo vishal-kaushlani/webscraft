@@ -61,7 +61,8 @@
                                         <h4>Phone</h4>
                                         <p>
                                             Call : +919660122070<br>
-                                            Fax : 01460 222539
+                                            Fax : 01460 222539<br>
+                                            Email : webscraft@gmail.com
                                         </p>
                                     </div>
                                     <div class="contactInfo col-md-6">

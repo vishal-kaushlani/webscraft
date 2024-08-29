@@ -32,83 +32,24 @@
                 <div class="row grid_row" id="shaff_grid">
                     <div class="col-lg-4 col-md-6 shaff_item" data-groups='["all", "web_development", "mobile_app"]'>
                         <div class="folioItem01 fi01">
-                            <img src="assets/images/folio/f1.jpg" alt="">
-                            <div class="folioHover">
-                                <p><a href="folio1.html">Creative Design</a></p>
-                                <h3><a href="single-folio.html">Digital marketing work</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 shaff_item" data-groups='["all", "web_design", "digital_marketing"]'>
-                        <div class="folioItem01 fi01">
-                            <img src="assets/images/folio/f2.jpg" alt="">
-                            <div class="folioHover">
-                                <p><a href="folio1.html">Creative Design</a></p>
-                                <h3><a href="single-folio.html">Digital marketing work</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 shaff_item" data-groups='["all", "mobile_app", "digital_marketing"]'>
-                        <div class="folioItem01 fi01">
-                            <img src="assets/images/folio/f3.jpg" alt="">
-                            <div class="folioHover">
-                                <p><a href="folio1.html">Creative Design</a></p>
-                                <h3><a href="single-folio.html">Digital marketing work</a></h3>
-                            </div>
+                            <a href="https://grxfashion.in/" target="_blank">
+                                <img src="assets/images/folio/grx.png" alt="">
+                                <div class="folioHover">
+                                    <p>Ecommerce</a></p>
+                                    <h3>GRX Fashions</a></h3>
+                                </div>
+                            </a>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 shaff_item" data-groups='["all", "web_development", "mobile_app"]'>
                         <div class="folioItem01 fi01">
-                            <img src="assets/images/folio/f4.jpg" alt="">
-                            <div class="folioHover">
-                                <p><a href="folio1.html">Creative Design</a></p>
-                                <h3><a href="single-folio.html">Digital marketing work</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 shaff_item" data-groups='["all", "web_design", "digital_marketing"]'>
-                        <div class="folioItem01 fi01">
-                            <img src="assets/images/folio/f5.jpg" alt="">
-                            <div class="folioHover">
-                                <p><a href="folio1.html">Creative Design</a></p>
-                                <h3><a href="single-folio.html">Digital marketing work</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 shaff_item" data-groups='["all", "mobile_app", "digital_marketing"]'>
-                        <div class="folioItem01 fi01">
-                            <img src="assets/images/folio/f6.jpg" alt="">
-                            <div class="folioHover">
-                                <p><a href="folio1.html">Creative Design</a></p>
-                                <h3><a href="single-folio.html">Digital marketing work</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 shaff_item" data-groups='["all", "web_development", "mobile_app"]'>
-                        <div class="folioItem01 fi01">
-                            <img src="assets/images/folio/f7.jpg" alt="">
-                            <div class="folioHover">
-                                <p><a href="folio1.html">Creative Design</a></p>
-                                <h3><a href="single-folio.html">Digital marketing work</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 shaff_item" data-groups='["all", "web_design", "digital_marketing"]'>
-                        <div class="folioItem01 fi01">
-                            <img src="assets/images/folio/f8.jpg" alt="">
-                            <div class="folioHover">
-                                <p><a href="folio1.html">Creative Design</a></p>
-                                <h3><a href="single-folio.html">Digital marketing work</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 shaff_item" data-groups='["all", "mobile_app", "digital_marketing"]'>
-                        <div class="folioItem01 fi01">
-                            <img src="assets/images/folio/f9.jpg" alt="">
-                            <div class="folioHover">
-                                <p><a href="folio1.html">Creative Design</a></p>
-                                <h3><a href="single-folio.html">Digital marketing work</a></h3>
-                            </div>
+                            <a href="https://svm.webscraft.online/" target="_blank">
+                                <img src="assets/images/folio/svm.png" alt="">
+                                <div class="folioHover">
+                                    <p>School / Education</a></p>
+                                    <h3>SVM School</a></h3>
+                                </div>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -124,14 +65,14 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 col-md-9">
-                        <div class="subTitle">company@gmail.com</div>
+                        <div class="subTitle">webscarft@gmail.com</div>
                         <h2 class="secTitle">Get effective solution<br> for your business</h2>
                         <p class="secDesc">
-                            There are many variations of passages of Lorem Ipsum available<br> but the majority have suffered alteration in some form
+                            We deliver custom solutions that drive success.<br> With our expertise, your business will stand out and thrive.
                         </p>
                     </div>
                     <div class="col-lg-4 col-md-3 text-center">
-                        <a class="dgBtn" href="contact.html">Contact Us</a>
+                        <a class="dgBtn" href="{{route('contact')}}">Contact Us</a>
                     </div>
                 </div>
             </div>

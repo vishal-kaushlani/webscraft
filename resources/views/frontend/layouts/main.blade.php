@@ -115,7 +115,7 @@
                                 <a class="phoneBtn" href="tel:+01682648101"><i class="dgita-telephone-call"></i>+919660122070</a>
                                 {{-- <a class="cartBtn" href="javascript:void(0);"><i class="dgita-shopping-bag"></i><span>0</span></a> --}}
                                 {{-- <a class="dgBtn_two" href="{{route('contact')}}"><span><i class="dgita-enter"></i>Get Quote</span></a> --}}
-                                <a  class ="dgBtn_two" href="https://wa.me/919887902973" target="_blank"><span><i class="dgita-enter"></i>WhatsApp</span></a>
+                                <a  class ="dgBtn_two" href="https://wa.me/919660122070" target="_blank"><span><i class="dgita-enter"></i>WhatsApp</span></a>
                             </div>
                         </div>
                     </div>
@@ -129,6 +129,11 @@
 
         <!-- Footer Section -->
         <footer class="footer_01">
+            <div class="whatsapp-floating-button">
+                <a href="https://wa.me/919887902973" target="_blank">
+                    <img src="{{asset('assets/images/whatsapp.png')}}" alt="WhatsApp Image">
+                </a>
+            </div>
             <div class="SecLayerimg move_anim">
                 <img src="assets/images/bg/s9.png" alt="">
             </div>

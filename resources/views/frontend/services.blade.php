@@ -129,11 +129,10 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
-                        <div class="subTitle">company@gmail.com</div>
+                        <div class="subTitle">webscraft@gmail.com</div>
                         <h2 class="secTitle">We Develop & Create Digital Future</h2>
                         <p class="secDesc">
-                            There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form
-                        </p>
+                            We specialize in developing innovative digital solutions that drive success. While others may follow trends, we set them. Let us bring your vision to life with a focus on quality and creativity.                        </p>
                     </div>
                     <div class="col-lg-6">
                         <div class="single_skill" data-parcent="92">
@@ -178,9 +177,7 @@
                             </div>
                             <h3>Discovery</h3>
                             <p>
-                                Consectetur adipiscing elit, sed do
-                                eiusmod tempor incididunt ut labore
-                                et dolore magna aliqua.
+                                Understanding your needs through research and initial consultations.
                             </p>
                         </div>
                     </div>
@@ -192,9 +189,7 @@
                             </div>
                             <h3>Planning</h3>
                             <p>
-                                Consectetur adipiscing elit, sed do
-                                eiusmod tempor incididunt ut labore
-                                et dolore magna aliqua.
+                                Creating a detailed plan to achieve your goals effectively.
                             </p>
                         </div>
                     </div>
@@ -206,9 +201,7 @@
                             </div>
                             <h3>Practise</h3>
                             <p>
-                                Consectetur adipiscing elit, sed do
-                                eiusmod tempor incididunt ut labore
-                                et dolore magna aliqua.
+                                Implementing the plan with precision and creativity.
                             </p>
                         </div>
                     </div>
@@ -219,9 +212,7 @@
                             </div>
                             <h3>Delivery</h3>
                             <p>
-                                Consectetur adipiscing elit, sed do
-                                eiusmod tempor incididunt ut labore
-                                et dolore magna aliqua.
+                                Providing the final product and ensuring your satisfaction.
                             </p>
                         </div>
                     </div>

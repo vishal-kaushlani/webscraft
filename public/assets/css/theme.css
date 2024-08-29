@@ -996,8 +996,9 @@
 }
 .folioItem01 img{
     width: 100%;
-    height: auto;
+    height: 350px;
 }
+
 .folioHover{
     position: absolute;
     width: calc(100% - 50px);
@@ -4635,3 +4636,6 @@ footer .ctaMail button:hover{
     margin-top: 134px;
 }
 
+.whatsapp-floating-button {
+    display: none;
+}
