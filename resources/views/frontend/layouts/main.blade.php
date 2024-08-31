@@ -60,8 +60,12 @@
                                         <a href="{{route('portfolio')}}">Portfolio</a>
                                     </li>
                                     <li class="">
+                                        <a href="{{route('about')}}">about</a>
+                                    </li>
+                                    <li class="">
                                         <a href="{{route('contact')}}">Contact</a>
                                     </li>
+
                                     {{-- <li class="menu-item-has-children">
                                         <a href="javascript:void(0);">blogs</a>
                                         <ul class="sub-menu">
