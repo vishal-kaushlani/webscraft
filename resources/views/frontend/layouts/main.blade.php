@@ -171,11 +171,11 @@
                         <div class="widget">
                             <h3 class="widget_title">Our Services</h3>
                             <ul>
-                                <li><a href="javascript:void(0)">Digital Solution</a></li>
-                                <li><a href="javascript:void(0)">Lifecycle marketing</a></li>
-                                <li><a href="javascript:void(0)">Sass development</a></li>
-                                <li><a href="javascript:void(0)">App development</a></li>
-                                <li><a href="javascript:void(0)">Digital agency</a></li>
+                                <li>Digital Solution</li>
+                                <li>Lifecycle marketing</li>
+                                <li>Sass development</li>
+                                <li>App development</li>
+                                <li>Digital agency</li>
                             </ul>
                         </div>
                     </div>

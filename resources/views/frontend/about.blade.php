@@ -1,152 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <title>Dgita - Creative Digital Agency Responsive HTML5 Template</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width">
-
-        <!-- Start Include All CSS -->
-        <link rel="stylesheet" href="assets/css/bootstrap.css"/>
-        <link rel="stylesheet" href="assets/css/animate.css"/>
-        <link rel="stylesheet" href="assets/css/themewar-font.css"/>
-        <link rel="stylesheet" href="assets/css/dgita-icon.css"/>
-        <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-        <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
-        <link rel="stylesheet" href="assets/css/settings.css">
-        <link rel="stylesheet" href="assets/css/lightslider.css">
-        <link rel="stylesheet" href="assets/css/slick.css">
-        <link rel="stylesheet" href="assets/css/lightcase.css">
-
-        <link rel="stylesheet" href="assets/css/preset.css"/>
-        <link rel="stylesheet" href="assets/css/ignore_for_wp.css"/>
-        <link rel="stylesheet" href="assets/css/theme.css"/>
-        <link rel="stylesheet" href="assets/css/responsive.css"/>
-        <!-- End Include All CSS -->
-
-        <!-- Favicon Icon -->
-        <link rel="icon"  type="image/png" href="assets/images/favicon.png">
-        <!-- Favicon Icon -->
-    </head>
-    <body>
-        <!-- Preloading -->
-        <div class="preloader text-center">
-            <div class="la-ball-scale-multiple la-2x">
-                <div></div>
-                <div></div>
-                <div></div>
-            </div>
-        </div>
-        <!-- Preloading -->
-        
-        <!-- Header Start -->
-        <header class="header01 centerMenu isSticky">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="navBar01">
-                            <div class="logo">
-                                <a href="index.html"><img src="assets/images/logo.png" alt="Dgita"></a>
-                            </div>
-                            <a href="javascript:void(0)" class="menu_btn"><i class="twi-bars2"></i></a>
-                            <nav class="mainMenu">
-                                <ul>
-                                    <li class="menu-item-has-children">
-                                        <a href="javascript:void(0);">Home</a>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item-has-children">
-                                                <a href="javascript:void(0);">Banner Version</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="index.html">Home One</a></li>
-                                                    <li><a href="index2.html">Home Two</a></li>
-                                                    <li><a href="index3.html">Home Three</a></li>
-                                                </ul>
-                                            </li>
-                                            <li class="menu-item-has-children">
-                                                <a href="javascript:void(0);">Slider Version</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="index4.html">Home One</a></li>
-                                                    <li><a href="index5.html">Home Two</a></li>
-                                                    <li><a href="index6.html">Home Three</a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="javascript:void(0);">Services</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="service.html">Service Page</a></li>
-                                            <li><a href="single-service.html">Service Details</a></li>
-                                        </ul>
-                                    </li>    
-                                    <li class="menu-item-has-children">
-                                        <a href="javascript:void(0);">Portfolio</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="folio1.html">Portfolio 01</a></li>
-                                            <li><a href="folio2.html">Portfolio 02</a></li>
-                                            <li><a href="single-folio.html">Portfolio Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="javascript:void(0);">blogs</a>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item-has-children">
-                                                <a href="javascript:void(0);">Blog List Views</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="blog2.html">Left Sidebar</a></li>
-                                                    <li><a href="blog1.html">Right Sidebar</a></li>
-                                                    <li><a href="blog3.html">Without Sidebar</a></li>
-                                                </ul>
-                                            </li>
-                                            <li class="menu-item-has-children">
-                                                <a href="javascript:void(0);">Blog Grid Views</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="blog5.html">Left Sidebar</a></li>
-                                                    <li><a href="blog4.html">Right Sidebar</a></li>
-                                                    <li><a href="blog6.html">Without Sidebar</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="single-blog.html">Blog Details</a></li>
-                                        </ul>
-                                    </li>      
-                                    <li class="menu-item-has-children">
-                                        <a href="javascript:void(0);">pages</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="about.html">About 01</a></li>
-                                            <li><a href="about2.html">About 02</a></li>
-                                            <li><a href="contact.html">Contact</a></li>
-                                            <li class="menu-item-has-children">
-                                                <a href="javascript:void(0);">Shop Page</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="shop1.html">Shop 01</a></li>
-                                                    <li><a href="shop2.html">Shop 02</a></li>
-                                                    <li><a href="shop3.html">Shop 03</a></li>
-                                                    <li><a href="single-product.html">Shop Details</a></li>
-                                                </ul>
-                                            </li>
-                                            <li class="menu-item-has-children">
-                                                <a href="javascript:void(0);">Team</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="team.html">Our Team</a></li>
-                                                    <li><a href="single-team.html">Team Details</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="gallery.html">Gallery</a></li>
-                                            <li><a href="company.html">Company History</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </nav>
-                            <div class="accessNav">
-                                <a class="phoneBtn" href="tel:+01682648101"><i class="dgita-telephone-call"></i>+ 01682648101</a>
-                                <a class="dgBtn_two" href="contact.html"><span><i class="dgita-enter"></i>Get Quote</span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </header>
-        <!-- Header End -->
-
+@extends('frontend.layouts.main')
+@section('content')
         <!-- Page Banner Start -->
         <section class="pageBanner" style="background-image: url(assets/images/bg/banner.png);">
             <div class="vmiddle">
@@ -179,10 +32,10 @@
                         <h2 class="secTitle">We create digital experiences that excite and inspire</h2>
                         <p class="secDesc">
                             On the other hand, we denounce with righteous <br>
-                            indignation and dislike men who are so beguiled 
+                            indignation and dislike men who are so beguiled
                         </p>
                         <p class="secDesc2">
-                            We’re experts in website design, search engine optimisation, content marketing, pay-per-click advertising 
+                            We’re experts in website design, search engine optimisation, content marketing, pay-per-click advertising
                             and other digital marketing services. We drive online growth using digital marketing for
                             businesses in the worldwide and across the globe
                         </p>
@@ -217,33 +70,31 @@
                                 <div class="tab-pane fade show active" id="ourvalue" role="tabpanel">
                                     <div class="dgiTabContent">
                                         <span>Our Values</span>
-                                        <h4>Since 2015, we’ve been making waves with our unrivalleddigital services</h4>
+                                        <h4>Since 2015, we've been making waves with our unrivalled digital services</h4>
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. 
-                                            Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. sed sollicitudin pellentes
+                                            At Webcraft, we stand by a set of core values that drive our mission and shape our culture. Integrity, innovation, and customer-centricity are at the heart of everything we do. We believe in delivering exceptional quality, fostering creativity, and building long-lasting relationships with our clients.
                                         </p>
                                     </div>
                                 </div>
                                 <div class="tab-pane fade" id="ourmission" role="tabpanel">
                                     <div class="dgiTabContent">
                                         <span>Our Mission</span>
-                                        <h4>Since 2015, we’ve been making waves with our unrivalleddigital services</h4>
+                                        <h4>Empowering Your Online Presence</h4>
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. 
-                                            Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. sed sollicitudin pellentes
+                                            Our mission at Webcraft is to empower businesses by enhancing their online presence through innovative web solutions. We strive to deliver cutting-edge digital services that are tailored to meet the unique needs of each client.
                                         </p>
                                     </div>
                                 </div>
                                 <div class="tab-pane fade" id="ourstory" role="tabpanel">
                                     <div class="dgiTabContent">
                                         <span>Our Story</span>
-                                        <h4>Since 2015, we’ve been making waves with our unrivalleddigital services</h4>
+                                        <h4>From Humble Beginnings to Digital Excellence</h4>
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. 
-                                            Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. sed sollicitudin pellentes
+                                            Webcraft's journey began in 2015 with a vision to revolutionize the digital landscape. What started as a small team with big dreams has grown into a leading digital agency known for its innovative solutions and exceptional service. Our story is one of passion, perseverance, and a relentless pursuit of excellence.
                                         </p>
                                     </div>
                                 </div>
+
                             </div>
                         </div>
                     </div>
@@ -277,13 +128,11 @@
                         <div class="iconbox01 text-center">
                             <div class="ibborder"><img src="assets/images/process/border.png" alt=""/></div>
                             <div class="ibbox">
-                                <img src="assets/images/process/1.png" alt=""/>
+                                <img src="assets/images/process/1.png" alt="Discovery"/>
                             </div>
                             <h3>Discovery</h3>
                             <p>
-                                Consectetur adipiscing elit, sed do 
-                                eiusmod tempor incididunt ut labore 
-                                et dolore magna aliqua.
+                                Understanding your needs through research and initial consultations.
                             </p>
                         </div>
                     </div>
@@ -291,13 +140,11 @@
                         <div class="iconbox01 pb2 text-center">
                             <div class="ibborder"><img src="assets/images/process/border.png" alt=""/></div>
                             <div class="ibbox">
-                                <img src="assets/images/process/2.png" alt=""/>
+                                <img src="assets/images/process/2.png" alt="Planning"/>
                             </div>
                             <h3>Planning</h3>
                             <p>
-                                Consectetur adipiscing elit, sed do 
-                                eiusmod tempor incididunt ut labore 
-                                et dolore magna aliqua.
+                                Creating a detailed plan to achieve your goals effectively.
                             </p>
                         </div>
                     </div>
@@ -305,26 +152,22 @@
                         <div class="iconbox01 pb3 text-center">
                             <div class="ibborder"><img src="assets/images/process/border.png" alt=""/></div>
                             <div class="ibbox">
-                                <img src="assets/images/process/3.png" alt=""/>
+                                <img src="assets/images/process/3.png" alt="Execution"/>
                             </div>
-                            <h3>Practise</h3>
+                            <h3>Execution</h3>
                             <p>
-                                Consectetur adipiscing elit, sed do 
-                                eiusmod tempor incididunt ut labore 
-                                et dolore magna aliqua.
+                                Implementing the plan with precision and creativity.
                             </p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="iconbox01 pb4 text-center">
                             <div class="ibbox">
-                                <img src="assets/images/process/4.png" alt=""/>
+                                <img src="assets/images/process/4.png" alt="Delivery"/>
                             </div>
                             <h3>Delivery</h3>
                             <p>
-                                Consectetur adipiscing elit, sed do 
-                                eiusmod tempor incididunt ut labore 
-                                et dolore magna aliqua.
+                                Providing the final product and ensuring your satisfaction.
                             </p>
                         </div>
                     </div>
@@ -388,8 +231,8 @@
             </div>
         </section>
         <!-- Progress End -->
-        
-        <!-- Team Start -->
+
+        {{-- <!-- Team Start -->
         <section class="teamSection01 abTeam">
             <div class="SecLayerimg move_anim2">
                 <img src="assets/images/bg/s25.png" alt="">
@@ -444,10 +287,10 @@
                 </div>
             </div>
         </section>
-        <!-- Team End -->
+        <!-- Team End --> --}}
 
         <!-- Testimonial Start -->
-        <section class="testimonailSection02 abTestimonial">
+        {{-- <section class="testimonailSection02 abTestimonial">
             <div class="SecLayerimg move_anim">
                 <img src="assets/images/bg/s15.png" alt="">
             </div>
@@ -467,11 +310,11 @@
                                         <div class="tsContent02">
                                             <div class="twIcon"><i class="dgita-quote"></i></div>
                                             <p>
-                                                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id 
+                                                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
                                                 est laborum.
                                             </p>
                                             <p>
-                                                Occaecat cupidatat non proident,sunt in culpa qui officia deserunt mollit anim id 
+                                                Occaecat cupidatat non proident,sunt in culpa qui officia deserunt mollit anim id
                                             </p>
                                             <h5>Ghost Baby</h5>
                                             <span>CEO Designer and developer</span>
@@ -491,11 +334,11 @@
                                         <div class="tsContent02">
                                             <div class="twIcon"><i class="dgita-quote"></i></div>
                                             <p>
-                                                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id 
+                                                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
                                                 est laborum.
                                             </p>
                                             <p>
-                                                Occaecat cupidatat non proident,sunt in culpa qui officia deserunt mollit anim id 
+                                                Occaecat cupidatat non proident,sunt in culpa qui officia deserunt mollit anim id
                                             </p>
                                             <h5>William Smith</h5>
                                             <span>MD Developer and Designer</span>
@@ -508,132 +351,6 @@
                 </div>
             </div>
         </section>
-        <!-- Testimonial End -->
+        <!-- Testimonial End --> --}}
 
-        <!-- Footer Section -->
-        <footer class="footer_01 white">
-            <div class="SecLayerimg move_anim">
-                <img src="assets/images/bg/s17.png" alt="">
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="ctaMail">
-                            <h2>Signup To Our Newsletter</h2>
-                            <p>Already member <a href="contact.html">Sign in</a></p>
-                            <form action="#" method="post">
-                                <div class="mc4wp-form-fields">
-                                    <i class="twi-envelope1"></i>
-                                    <input type="email" name="EMAIL" placeholder="Enter your eamil address">
-                                    <button type="submit"><i class="twi-angle-right1"></i></button>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-6 col-lg-3 col-xl-3">
-                        <div class="widget">
-                            <div class="aboutWidget">
-                                <a href="index.html"><img src="assets/images/logo.png" alt=""/></a>
-                                <p>1864 Lancaster Court Road Poughkeepsie, CA 12601</p>
-                                <h4>Newsletter</h4>
-                                <form action="#" method="post">
-                                    <div class="mc4wp-form-fields">
-                                        <input type="email" name="EMAIL" placeholder="Email Address">
-                                        <button type="submit"><i class="dgita-arrow"></i></button>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-xl-3 offset-xl-1 col-lg-3 ">
-                        <div class="widget">
-                            <h3 class="widget_title">About Company</h3>
-                            <ul>
-                                <li><a href="about.html">About</a></li>
-                                <li><a href="team.html">Team Member</a></li>
-                                <li><a href="folio1.html">Our Portfolio</a></li>
-                                <li><a href="blog1.html">News</a></li>
-                                <li><a href="company.html">Company History</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3 col-xl-2">
-                        <div class="widget">
-                            <h3 class="widget_title">Our Services</h3>
-                            <ul>
-                                <li><a href="single-service.html">Digital Solution</a></li>
-                                <li><a href="single-service.html">Lifecycle marketing</a></li>
-                                <li><a href="single-service.html">Sass development</a></li>
-                                <li><a href="single-service.html">App development</a></li>
-                                <li><a href="single-service.html">Digital agency</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3 col-xl-3">
-                        <div class="widget contact_widget">
-                            <h3 class="widget_title">Contact Us</h3>
-                            <div class="contact_info">
-                                <p>dgita.info@gmail.com</p>
-                                <p>+88 016 826 48 11</p>
-                                <div class="abSocial">
-                                    <a href="javascript:void(0);"><i class="twi-facebook-f"></i></a>
-                                    <a href="javascript:void(0);"><i class="twi-linkedin-in"></i></a>
-                                    <a href="javascript:void(0);"><i class="twi-instagram"></i></a>
-                                    <a href="javascript:void(0);"><i class="twi-twitter"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="copyright">
-                            <p>Copyright 2021, All Right Reserved</p>
-                            <ul>
-                                <li><a href="javascript:void(0);">Privacy</a></li>
-                                <li><a href="javascript:void(0);">Policy</a></li>
-                                <li><a href="javascript:void(0);">Terms of Service</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
-        <!-- Footer Section -->
-
-        <!-- Bact To Top -->
-        <a href="javascript:void(0);" id="backtotop"><i class="twi-arrow-to-top1"></i></a>
-        <!-- Bact To Top -->
-
-        <!-- Start Include All JS -->
-        <script src="assets/js/jquery.js"></script>
-        <script src="assets/js/jquery-ui.js"></script>
-        <script src="assets/js/bootstrap.min.js"></script>
-        <script src="assets/js/jquery.appear.js"></script>
-        <script src="assets/js/owl.carousel.min.js"></script>
-        <script src="assets/js/jquery.shuffle.min.js"></script>
-        <script src="assets/js/lightslider.js"></script>
-        <script src="assets/js/slick.js"></script>
-        <script src="assets/js/lightcase.js"></script>
-
-        <!-- Slider Revolution Main Files -->
-        <script src="assets/js/jquery.themepunch.tools.min.js"></script>
-        <script src="assets/js/jquery.themepunch.revolution.min.js"></script>
-
-        <!-- Slider Revolution Extension -->    
-        <script src="assets/js/extensions/revolution.extension.actions.min.js"></script>
-        <script src="assets/js/extensions/revolution.extension.carousel.min.js"></script>
-        <script src="assets/js/extensions/revolution.extension.kenburn.min.js"></script>
-        <script src="assets/js/extensions/revolution.extension.layeranimation.min.js"></script>
-        <script src="assets/js/extensions/revolution.extension.migration.min.js"></script>
-        <script src="assets/js/extensions/revolution.extension.navigation.min.js"></script>
-        <script src="assets/js/extensions/revolution.extension.parallax.min.js"></script>
-        <script src="assets/js/extensions/revolution.extension.slideanims.min.js"></script>
-        <script src="assets/js/extensions/revolution.extension.video.min.js"></script>
-
-        <script src="assets/js/theme.js"></script>
-        <!-- End Include All JS -->
-    </body>
-</html>
+@endsection
